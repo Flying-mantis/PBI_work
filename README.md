@@ -28,13 +28,13 @@ Cleaned, shaped, and prepared the raw data for analysis by handling blanks, chan
 
 ### 1️⃣ Page 1: High-Level Market View
 
-![Dashboard Page 1](/images/Data_Project_page1.png)
+![Dashboard ](/images/Dashboard.png)
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of What's happening in the job market at a glance.
 
 ### 2️⃣ Page 2: Job Filter
 
-![Dashboard Page 2](/images/Data_Project_page2.png)
+![Job_filter_dashboard](/images/Job_filter_dashboard.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
