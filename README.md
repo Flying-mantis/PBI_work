@@ -34,7 +34,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 ### 2️⃣ Page 2: Job Filter
 
-![Job_filter ](/Iimages/Job_filter.png)
+![Job_filter](/Images/Job_filter.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
